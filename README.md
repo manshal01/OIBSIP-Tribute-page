@@ -32,7 +32,8 @@ Mahendra Singh Dhoni, commonly known as MS Dhoni, is a former Indian cricketer a
 
 ## Preview
 
-![Tribute Page Preview](screenshot.png)
+![Screenshot (33)](https://github.com/manshal01/OIBSIP-Tribute-page/assets/93897590/c87e6b6f-fdfe-490d-bf77-33ad5c4f9017)
+
 
 ## Getting Started
 
